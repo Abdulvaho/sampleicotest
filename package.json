@@ -1,0 +1,17 @@
+{
+  "name": "create-icoreact-screen",
+  "version": "1.0.0",
+  "description": "A development tool for creatng new icoreact screen",
+  "main": "index.js", 
+  "bin": {
+    "create-icoreact-screen": "./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "2.4.2",
+    "commander": "^2.20.0",
+    "fs-extra": "7.0.1",
+    "validate-npm-package-name": "3.0.0"
+  }
+}
